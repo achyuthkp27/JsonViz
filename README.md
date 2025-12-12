@@ -1,4 +1,4 @@
-# <div align="center">AntiGravity **JsonViz**</div>
+# <div align="center">**JsonViz**</div>
 
 <div align="center">
 
